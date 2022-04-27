@@ -1,12 +1,12 @@
 penal     	: 3
 rmin      	: 5
 initdv     	:-0.5
-VDD      	: 56323.2
+VT      	: 56323.2
 volfrac   	: 0.15
 mprop   	: [1.463E+9,    0.37]
 force     	: [15 -50 0]
 conv      	: 0.001
-bt        	: 0.1
+bt_init    	: 0.1
 bt_ic     	: 1.5
 bt_ns     	: 4
 bt_fn     	: 10

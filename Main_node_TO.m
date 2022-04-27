@@ -1,5 +1,5 @@
 clear; clc; close all; tic;
-modelname = 'Cyllinder2_Beam';
+modelname = 'Ex1_Beam_Coarse';
 
 %% Pre-Processing
     [inputs] = fun_pre_inputsload(modelname);      % Load input parameters
